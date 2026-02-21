@@ -503,9 +503,11 @@ function createMain(){
     const paragrafo = document.querySelector('#sobre > div > div.row.align-items-center > div.col-lg-7 > p');
 
     botaoLerMais?.addEventListener('click', function () {
-        if (paragrafo.innerHTML = '...')  paragrafo.innerHTML = `Tenho autonomia no aprendizado, resiliente para situações e ambientes diversos. Tenho voracidade de aprender e fascínio em transformar informação em valor através da tecnologia. Experiência sólida no desenvolvimento Web FullStack na área da saúde e jurídica, com desenvolvimento Desktop e Mobile em todo o ciclo de vida do projeto, desde o requisito de projeto ao deploy, atendendo clientes de referência internacional na América Latina, do setor público e privado. Possuo sólidos conhecimentos na linguagem JavaScript, Python, Java e seus ecossistemas, assim como banco de dados relacionais e não relacionais (PostgreSQL e Oracle). 
+        if (paragrafo.innerHTML = '...')  paragrafo.innerHTML = `Sou um profissional multidisciplinar e autônomo no aprendizado, resiliente em diferentes situações e ambientes. Tenho voracidade por conhecimento e fascínio em transformar informação em valor por meio da tecnologia. Possuo experiência sólida em desenvolvimento Web Full Stack e administração de banco de dados, além de atuação em projetos Desktop e Mobile, cobrindo todo o ciclo de vida de software, desde o levantamento de requisitos até o Deploy. Minha trajetória inclui vivência tanto no setor público quanto no privado.
 
-Em paralelo, sigo ativo nas comunidades tech, e desenvolvo projeto pessoal na área de gestão de manutenção de motocicletas com aplicação de implementações com IA (SLM).`;
+Domino linguagens como JavaScript, Python e Java, com profundo conhecimento em seus ecossistemas, além de bancos de dados relacionais e não relacionais. Sou especialista em Inteligência Artificial e Machine Learning, aplicando essas competências para criar soluções inovadoras e de alto impacto.
+
+Em paralelo, sigo ativo nas comunidades tech, e desenvolvo projeto pessoal na área de gestão de manutenção de motocicletas com aplicação de IA (SLM).`;
     });
 
     createBlogPosts();
