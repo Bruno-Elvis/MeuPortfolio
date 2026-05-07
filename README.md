@@ -1,6 +1,6 @@
-# Projeto - MeuPortfolio
+# Projeto - profilebs
 
-## O projeto "MeuPortifolio" foi desenvolvido com o intuito de apresentar meu perfil como desenvolvedor e validar alguns de meus conhecimentos e habilidades para desenvolvimento de soluções através da tecnologia!
+## O projeto "profilebs" foi desenvolvido com o intuito de apresentar meu perfil como desenvolvedor e validar alguns de meus conhecimentos e habilidades para desenvolvimento de soluções através da tecnologia!
 
 Link para acesso: https://bruno-elvis.github.io/MeuPortfolio/
 
